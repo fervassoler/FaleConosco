@@ -1,0 +1,12 @@
+.read{
+    background-color: rgba(140, 135, 138, 0.41) !important;
+}
+.unread{
+    font-weight: bold !important;
+}
+#header h1{
+    background-color: #000000;
+    font-size: large;
+    line-height: 100px;
+    height: 100px !important;
+}
